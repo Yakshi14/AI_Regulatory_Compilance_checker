@@ -13,3 +13,6 @@ Outcomes:
 ● Continuous monitoring and application of regulatory updates to active contracts.
 
 ● Streamlined contract management process with reduced manual intervention.
+
+<img width="1158" height="600" alt="image" src="https://github.com/user-attachments/assets/a482ad47-520e-418b-96fd-8487d429ea78" />
+
